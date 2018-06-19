@@ -1,0 +1,22 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1529432977554.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3817463160",
+    "id" : "81030F10",
+    "lastKnownWriteTime" : 1529445892,
+    "last_content_update" : 1529445892028,
+    "path" : "E:/Study/git_project/r_projects/project1/data.R",
+    "project_path" : "data.R",
+    "properties" : {
+        "cursorPosition" : "7,0",
+        "scrollLine" : "0"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_source"
+}
